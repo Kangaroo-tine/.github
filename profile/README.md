@@ -4,7 +4,7 @@
 인지 장애인을 위한 루틴 지원 앱 프로젝트입니다.
 
 ## 📂 프로젝트 구조
-- `kt-frontend`: React 기반 Android
+- `kt-frontend`: React Native 기반 Android
 - `kt-backend`: Spring Boot 기반 서버
 
 ## 👥 팀원
